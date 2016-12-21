@@ -80,6 +80,8 @@ mensaje += empata;
 }
 mensaje +="</div>";
 
+//comentarios de prueba
+
 //--- imprimimos resultados----
 divresulado.innerHTML=mensaje;
 divmarcador.innerHTML="<div>Marcador: Máquina <b>"+ marcadorMaquina +"</b> - <b>"+ marcadorUsuario +"</b> Usuario </div>";
