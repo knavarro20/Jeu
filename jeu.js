@@ -80,7 +80,7 @@ mensaje += empata;
 }
 mensaje +="</div>";
 
-//comentarios de prueba
+//comentarios de pruebaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
 //--- imprimimos resultados----
 divresulado.innerHTML=mensaje;
